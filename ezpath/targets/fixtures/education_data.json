@@ -1,0 +1,407 @@
+[
+{
+    "model": "targets.school", 
+    "fields": {
+        "abbreviate": "", 
+        "address": "1310 S Sixth Street Champaign IL 61820", 
+        "university": 1, 
+        "url": "http://www.education.illinois.edu", 
+        "name": "The College of Education at University of Illinois--Urbana-Champaign", 
+        "area": 1, 
+        "datetime_created": "2014-04-20T19:40:00.355Z", 
+        "specialties": [], 
+        "datetime_modified": "2014-04-20T19:40:00.355Z", 
+        "nickname": ""
+    }, 
+    "pk": 1
+},
+{
+    "model": "targets.school", 
+    "fields": {
+        "abbreviate": "", 
+        "address": "3119 Benjamin Building College Park MD 20742", 
+        "university": 2, 
+        "url": "http://www.education.umd.edu/GraduatePrograms", 
+        "name": "The College of Education at University of Maryland--College Park", 
+        "area": 1, 
+        "datetime_created": "2014-04-20T19:40:01.280Z", 
+        "specialties": [], 
+        "datetime_modified": "2014-04-20T19:40:01.280Z", 
+        "nickname": ""
+    }, 
+    "pk": 2
+},
+{
+    "model": "targets.school", 
+    "fields": {
+        "abbreviate": "", 
+        "address": "2800 Old Main Hill Logan UT 84322", 
+        "university": 3, 
+        "url": "http://www.rgs.usu.edu/graduateschool", 
+        "name": "The College of Education and Human Services at Utah State University", 
+        "area": 1, 
+        "datetime_created": "2014-04-20T19:40:02.558Z", 
+        "specialties": [], 
+        "datetime_modified": "2014-04-20T19:40:02.558Z", 
+        "nickname": ""
+    }, 
+    "pk": 3
+},
+{
+    "model": "targets.school", 
+    "fields": {
+        "abbreviate": "", 
+        "address": "Campus Box 249 Boulder CO 80309", 
+        "university": 4, 
+        "url": "http://www.colorado.edu/education", 
+        "name": "The School of Education at University of Colorado--Boulder", 
+        "area": 1, 
+        "datetime_created": "2014-04-20T19:40:05.671Z", 
+        "specialties": [], 
+        "datetime_modified": "2014-04-20T19:40:05.671Z", 
+        "nickname": ""
+    }, 
+    "pk": 4
+},
+{
+    "model": "targets.school", 
+    "fields": {
+        "abbreviate": "", 
+        "address": "113 Willard Hall Education Building Newark DE 19716", 
+        "university": 5, 
+        "url": "http://www.education.udel.edu", 
+        "name": "The School of Education at University of Delaware", 
+        "area": 1, 
+        "datetime_created": "2014-04-20T19:40:06.285Z", 
+        "specialties": [], 
+        "datetime_modified": "2014-04-20T19:40:06.285Z", 
+        "nickname": ""
+    }, 
+    "pk": 5
+},
+{
+    "model": "targets.school", 
+    "fields": {
+        "abbreviate": "", 
+        "address": "140 Norman Hall PO Box 117040 Gainesville FL 32611", 
+        "university": 6, 
+        "url": "http://education.ufl.edu/", 
+        "name": "The College of Education at University of Florida", 
+        "area": 1, 
+        "datetime_created": "2014-04-20T19:40:07.197Z", 
+        "specialties": [], 
+        "datetime_modified": "2014-04-20T19:40:07.197Z", 
+        "nickname": ""
+    }, 
+    "pk": 6
+},
+{
+    "model": "targets.school", 
+    "fields": {
+        "abbreviate": "", 
+        "address": "1015 W Main Street PO Box 842020 Richmond VA 23284", 
+        "university": 7, 
+        "url": "http://www.soe.vcu.edu", 
+        "name": "The School of Education at Virginia Commonwealth University", 
+        "area": 1, 
+        "datetime_created": "2014-04-20T19:40:11.870Z", 
+        "specialties": [], 
+        "datetime_modified": "2014-04-20T19:40:11.870Z", 
+        "nickname": ""
+    }, 
+    "pk": 7
+},
+{
+    "model": "targets.school", 
+    "fields": {
+        "abbreviate": "", 
+        "address": "274 Chambers Building University Park PA 16802", 
+        "university": 8, 
+        "url": "http://www.ed.psu.edu", 
+        "name": "The College of Education at Pennsylvania State University--University Park", 
+        "area": 1, 
+        "datetime_created": "2014-04-20T19:40:12.837Z", 
+        "specialties": [], 
+        "datetime_modified": "2014-04-20T19:40:12.837Z", 
+        "nickname": ""
+    }, 
+    "pk": 8
+},
+{
+    "model": "targets.school", 
+    "fields": {
+        "abbreviate": "", 
+        "address": "249 Glenbrook Road Storrs CT 06269", 
+        "university": 9, 
+        "url": "http://www.grad.uconn.edu", 
+        "name": "The Neag School of Education at University of Connecticut", 
+        "area": 1, 
+        "datetime_created": "2014-04-20T19:40:13.787Z", 
+        "specialties": [], 
+        "datetime_modified": "2014-04-20T19:40:13.787Z", 
+        "nickname": "Neag"
+    }, 
+    "pk": 9
+},
+{
+    "model": "targets.school", 
+    "fields": {
+        "abbreviate": "", 
+        "address": "G3 Aderhold Hall Athens GA 30602", 
+        "university": 10, 
+        "url": "http://www.coe.uga.edu/", 
+        "name": "The College of Education at University of Georgia", 
+        "area": 1, 
+        "datetime_created": "2014-04-20T19:40:15.167Z", 
+        "specialties": [], 
+        "datetime_modified": "2014-04-20T19:40:15.167Z", 
+        "nickname": ""
+    }, 
+    "pk": 10
+},
+{
+    "model": "targets.school", 
+    "fields": {
+        "abbreviate": "", 
+        "address": "3200 Education Irvine CA 92697", 
+        "university": 11, 
+        "url": "http://education.uci.edu", 
+        "name": "The School of Education at University of California--Irvine", 
+        "area": 1, 
+        "datetime_created": "2014-04-20T19:40:17.864Z", 
+        "specialties": [], 
+        "datetime_modified": "2014-04-20T19:40:17.864Z", 
+        "nickname": ""
+    }, 
+    "pk": 11
+},
+{
+    "model": "targets.school", 
+    "fields": {
+        "abbreviate": "", 
+        "address": "CB3500 101 Peabody Hall Chapel Hill NC 27599", 
+        "university": 12, 
+        "url": "http://soe.unc.edu", 
+        "name": "The School of Education at University of North Carolina--Chapel Hill", 
+        "area": 1, 
+        "datetime_created": "2014-04-20T19:40:19.222Z", 
+        "specialties": [], 
+        "datetime_modified": "2014-04-20T19:40:19.222Z", 
+        "nickname": ""
+    }, 
+    "pk": 12
+},
+{
+    "model": "targets.school", 
+    "fields": {
+        "abbreviate": "", 
+        "address": "100 N University Street West Lafayette IN 47907", 
+        "university": 13, 
+        "url": "http://www.education.purdue.edu/", 
+        "name": "The College of Education at Purdue University--West Lafayette", 
+        "area": 1, 
+        "datetime_created": "2014-04-20T19:40:20.594Z", 
+        "specialties": [], 
+        "datetime_modified": "2014-04-20T19:40:20.594Z", 
+        "nickname": ""
+    }, 
+    "pk": 13
+},
+{
+    "model": "targets.school", 
+    "fields": {
+        "abbreviate": "", 
+        "address": "PO Box 8795 Williamsburg VA 23187", 
+        "university": 14, 
+        "url": "http://education.wm.edu/", 
+        "name": "The School of Education at College of William and Mary", 
+        "area": 1, 
+        "datetime_created": "2014-04-20T19:40:22.034Z", 
+        "specialties": [], 
+        "datetime_modified": "2014-04-20T19:40:22.034Z", 
+        "nickname": ""
+    }, 
+    "pk": 14
+},
+{
+    "model": "targets.school", 
+    "fields": {
+        "abbreviate": "", 
+        "address": "Suite 1100 Stone Building 1114 W Call Street Tallahassee FL 32306", 
+        "university": 15, 
+        "url": "http://www.coe.fsu.edu", 
+        "name": "The College of Education at Florida State University", 
+        "area": 1, 
+        "datetime_created": "2014-04-20T19:40:24.113Z", 
+        "specialties": [], 
+        "datetime_modified": "2014-04-20T19:40:24.113Z", 
+        "nickname": ""
+    }, 
+    "pk": 15
+},
+{
+    "model": "targets.school", 
+    "fields": {
+        "abbreviate": "", 
+        "address": "10 Seminary Place New Brunswick NJ 08901", 
+        "university": 16, 
+        "url": "http://www.gse.rutgers.edu", 
+        "name": "The Graduate School of Education at Rutgers, the State University of New Jersey--New Brunswick", 
+        "area": 1, 
+        "datetime_created": "2014-04-20T19:40:25.323Z", 
+        "specialties": [], 
+        "datetime_modified": "2014-04-20T19:40:25.323Z", 
+        "nickname": ""
+    }, 
+    "pk": 16
+},
+{
+    "model": "targets.school", 
+    "fields": {
+        "abbreviate": "", 
+        "address": "111 Research Drive Bethlehem PA 18015", 
+        "university": 17, 
+        "url": "http://coe.lehigh.edu/", 
+        "name": "The College of Education at Lehigh University", 
+        "area": 1, 
+        "datetime_created": "2014-04-20T19:40:26.511Z", 
+        "specialties": [], 
+        "datetime_modified": "2014-04-20T19:40:26.511Z", 
+        "nickname": ""
+    }, 
+    "pk": 17
+},
+{
+    "model": "targets.school", 
+    "fields": {
+        "abbreviate": "", 
+        "address": "1040 W Harrison Street Chicago IL 60607", 
+        "university": 18, 
+        "url": "http://www.education.uic.edu", 
+        "name": "The College of Education at University of Illinois--Chicago", 
+        "area": 1, 
+        "datetime_created": "2014-04-20T19:40:28.985Z", 
+        "specialties": [], 
+        "datetime_modified": "2014-04-20T19:40:28.985Z", 
+        "nickname": ""
+    }, 
+    "pk": 18
+},
+{
+    "model": "targets.school", 
+    "fields": {
+        "abbreviate": "", 
+        "address": "Furcolo Hall 813 N Pleasant Street Amherst MA 01003", 
+        "university": 19, 
+        "url": "http://www.umass.edu/education", 
+        "name": "The College of Education at University of Massachusetts--Amherst", 
+        "area": 1, 
+        "datetime_created": "2014-04-20T19:40:30.681Z", 
+        "specialties": [], 
+        "datetime_modified": "2014-04-20T19:40:30.681Z", 
+        "nickname": ""
+    }, 
+    "pk": 19
+},
+{
+    "model": "targets.school", 
+    "fields": {
+        "abbreviate": "", 
+        "address": "230 Huntington Hall Syracuse NY 13244", 
+        "university": 20, 
+        "url": "http://soe.syr.edu", 
+        "name": "The School of Education at Syracuse University", 
+        "area": 1, 
+        "datetime_created": "2014-04-20T19:40:31.883Z", 
+        "specialties": [], 
+        "datetime_modified": "2014-04-20T19:40:31.883Z", 
+        "nickname": ""
+    }, 
+    "pk": 20
+},
+{
+    "model": "targets.school", 
+    "fields": {
+        "abbreviate": "", 
+        "address": "School of Education 1 Shields Avenue Davis CA 95616", 
+        "university": 21, 
+        "url": "http://education.ucdavis.edu", 
+        "name": "The School of Education at University of California--Davis", 
+        "area": 1, 
+        "datetime_created": "2014-04-20T19:40:33.406Z", 
+        "specialties": [], 
+        "datetime_modified": "2014-04-20T19:40:33.406Z", 
+        "nickname": ""
+    }, 
+    "pk": 21
+},
+{
+    "model": "targets.school", 
+    "fields": {
+        "abbreviate": "", 
+        "address": "1 Brookings Drive Box 1183 St Louis MO 63130", 
+        "university": 22, 
+        "url": "http://education.wustl.edu", 
+        "name": "The Department of Education at Washington University in St. Louis", 
+        "area": 1, 
+        "datetime_created": "2014-04-20T19:40:35.801Z", 
+        "specialties": [], 
+        "datetime_modified": "2014-04-20T19:40:35.801Z", 
+        "nickname": ""
+    }, 
+    "pk": 22
+},
+{
+    "model": "targets.school", 
+    "fields": {
+        "abbreviate": "", 
+        "address": "Box 210069 1430 E Second Street Tucson AZ 85721", 
+        "university": 23, 
+        "url": "http://coe.arizona.edu/", 
+        "name": "The College of Education at University of Arizona", 
+        "area": 1, 
+        "datetime_created": "2014-04-20T19:40:38.159Z", 
+        "specialties": [], 
+        "datetime_modified": "2014-04-20T19:40:38.159Z", 
+        "nickname": ""
+    }, 
+    "pk": 23
+},
+{
+    "model": "targets.school", 
+    "fields": {
+        "abbreviate": "", 
+        "address": "Lindquist Center Iowa City IA 52242", 
+        "university": 24, 
+        "url": "http://www.education.uiowa.edu", 
+        "name": "The College of Education at University of Iowa", 
+        "area": 1, 
+        "datetime_created": "2014-04-20T19:40:39.693Z", 
+        "specialties": [], 
+        "datetime_modified": "2014-04-20T19:40:39.693Z", 
+        "nickname": ""
+    }, 
+    "pk": 24
+},
+{
+    "model": "targets.school", 
+    "fields": {
+        "abbreviate": "whatever", 
+        "address": "233 Mabel Lee Hall Lincoln NE 68588", 
+        "university": 25, 
+        "url": "http://cehs.unl.edu/", 
+        "name": "The College of Education and Human Sciences at University of Nebraska--Lincoln", 
+        "area": 1, 
+        "datetime_created": "2014-04-20T19:40:40.982Z", 
+        "specialties": [
+            1, 
+            2, 
+            3, 
+            4
+        ], 
+        "datetime_modified": "2014-04-20T22:26:14.795Z", 
+        "nickname": "whatever"
+    }, 
+    "pk": 25
+}
+]
