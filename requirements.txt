@@ -1,7 +1,5 @@
 django==1.6.2
 # not work on 3.3
-#mysql-python
-
 mysql-connector-python
 south
 requests

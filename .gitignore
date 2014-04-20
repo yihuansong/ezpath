@@ -9,6 +9,7 @@ __pycache__/
 .Python
 env/
 ENV/*
+*.DS_Store
 bin/
 build/
 develop-eggs/
