@@ -135,7 +135,7 @@ INSTALLED_APPS = (
     # Uncomment the next line to enable admin documentation:
     # 'django.contrib.admindocs',
     # Self Library
-    'lib',
+    'ezpath_lib',
     # Third party
     'south',
 )

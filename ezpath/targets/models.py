@@ -1,5 +1,5 @@
 from django.db import models
-from lib.models import CommonBaseModel
+from ezpath_lib.models import CommonBaseModel
 
 # # sync data
 # class OldUniversityList(models.Model):
